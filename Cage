@@ -13,7 +13,8 @@ AA1 = Outstanding Commission
 AA2 = Early Commission 
 AA3 = JV Settlement 
 AA4 = Variance (Staff Variance)
-     
+ALL AA ACCOUNTS MUST BE SETTLED AT THE END OF THE MONTH 
+  
 
 #     2
                    Staff Error 
@@ -22,7 +23,7 @@ CAGE will use EXPIRED COMMISSION to settle ERRORS from
 PREVIOUS/RESIGNED STAFF APPROVAL is neccesary
 SOLUTION 2 : 
 FINANCE issues ENTERTAINMENT FEES or CDV to settle not 
-from CAGE(CHIPBANK)
+settled by CAGE(CHIPBANK)
 
 
 #     3
