@@ -17,7 +17,9 @@ AA4 = Variance (Staff Variance)
 #     2
                    Staff Error 
 Some Casino will use EXPIRED COMMISSION to settle ERRORS from 
-PREVIOUS/RESIGNED STAFF APPROVAL is neccesary 
+PREVIOUS/RESIGNED STAFF APPROVAL is neccesary
+
+Some Casino will use CDV to settle  
 
 
 #     3
@@ -25,9 +27,13 @@ PREVIOUS/RESIGNED STAFF APPROVAL is neccesary
                     JV Agent 
                Overlapping Results 
  In situation where MORE THAN ONE GAME for SAME AGENT(PZ) ON 
- THE SAME DAY(21/08/2021) record down the RESULTS FOR THAT 
- PARTICULAR GAME first once the GAME ENDS to avoid OVER CASH 
- OUT to AGENT
+ THE SAME DAY(21/08/2021) for example :
+ 
+ 20/08/2021 22:31 --- 21/08/2021 02:50 FIRST   CASH OUT  
+ 21/08/2021 19:15 --- 21/08/2021 23:45 SECOND  NOT CASH OUT 
+ 
+ record down the RESULTS FOR FIRST GAME once the FIRST GAME ENDS
+ to avoid OVER CASH OUT to AGENT
  
  CASH OUT base on JV WIN/LOSS
  
