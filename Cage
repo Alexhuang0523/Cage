@@ -1,5 +1,6 @@
 #      1
                 Monthly Settlement 
+SOLUTION :
         Junket Method       MainHall Method 
               AA1              MAINBANK
               AA2
@@ -16,9 +17,10 @@ AA4 = Variance (Staff Variance)
 
 #     2
                    Staff Error 
+SOLUTION 1 :                  
 Some Casino will use EXPIRED COMMISSION to settle ERRORS from 
 PREVIOUS/RESIGNED STAFF APPROVAL is neccesary
-
+SOLUTION 2 : 
 Some Casino will use CDV to settle  
 
 
@@ -26,6 +28,7 @@ Some Casino will use CDV to settle
                     Cash Out 
                     JV Agent 
                Overlapping Results 
+ SOLUTION 1 : 
  In situation where MORE THAN ONE GAME for SAME AGENT(PZ) ON 
  THE SAME DAY(21/08/2021) for example :
  
@@ -34,7 +37,7 @@ Some Casino will use CDV to settle
  
  record down the RESULTS FOR FIRST GAME once the FIRST GAME ENDS
  to avoid OVER CASH OUT to AGENT
- 
+ SOLUTION 2 : 
  CASH OUT base on JV WIN/LOSS
  
 
