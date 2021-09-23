@@ -1,13 +1,13 @@
          Creating Balance Report 
          
                   Date 
-                (VLOOKUP)
                 
  Opening Amount         Closing Amount 
             
-     Daily/Weekly Transactions (SUMIFS) <---------------- add figures other Sheets 
-     Daily/Weekly Win/Loss     (SUMIFS) <---------------- add figures other Sheets 
+     Daily/Weekly Transactions (SUMIFS / VLOOKUP) <---------------- add figures other Sheets 
+     Daily/Weekly Win/Loss     (SUMIFS / VLOOKUP) <---------------- add figures other Sheets 
                   
                  Balance 
             
-              
+ SUMFIS more flexible than VLOOKUP
+
