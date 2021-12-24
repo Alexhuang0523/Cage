@@ -13,4 +13,49 @@ Example :
 26/08/2021  01:50 End
 
 
+                      Excel 
+              Visual Basic / Marcos 
+Opening new month STEP :
+December 2021 ---> January 2022
 
+1) Change date + Opening new day (Click)
+2) File --> Options --> Advanced --> Show Sheets Tabs
+3) Delete "Monthly" figures only
+
+
+
+Cage -- Agent
+Marker quota 250,000
+
+Agent -- Customer 
+Partially Bet 
+Take 250,000 but actual bet 200,000
+Chips return 211,000
+208,800 Agent + 2,200 cash out 
+( Capital - Temporary deposit + Cash out ) 
+Actually customer still loss 39,000
+
+Cash out 2,200 not consider JV
+Loss on table only condiser JV 80% 20% 
+Not + Cash 2,200 Agent will bear this cash out 
+
+If customers lose we still settle for agent, Agent will bear more than 250,000 because  of AA3 80% (Redeem marker) 
+Possible agent not yet collect money from customers 
+
+
+Agent -- Customer 
+Fully Bet 
+Take 200,000 actual bet 200,000
+Chips return 204,000
+Customer really win 4,000 
+
+Settle 
+AA3    3,200 
+Cash  800 
+
+
+End of the month AA3 must be settled by chips 
+Agent only settle Marker 
+
+
+        
